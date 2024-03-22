@@ -1,0 +1,17 @@
+.sizee{
+    /* height: 70vh; */
+    border-radius: 10%;
+    /* height: 70%; */
+    
+}
+.backhead{
+    background-color: #33225E;
+    border-radius: 20%;
+}
+.font{
+    font-family: 'Blackadder ITC';
+}
+p{
+    text-align: justify;
+    text-indent: 10%;
+}

@@ -1,0 +1,6 @@
+.backgroundd{
+    background-image: url("../Assest/Banner.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
